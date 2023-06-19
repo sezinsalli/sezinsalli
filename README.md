@@ -1,7 +1,9 @@
 <h2>Hi 👋, I'm Sezin,</h2>
 
-- 💻 I’m currently learning **Microservices Architecture** 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezins&label=Profile%20views&color=0e75b6&style=flat" alt="sezins" /> </p>
+
+- 💻 I’m currently learning **Microservices Architecture** 
+
 
 - 📫 How to reach me **sezininyayla@gmail.com**
 
